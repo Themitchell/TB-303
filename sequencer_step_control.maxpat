@@ -200,15 +200,14 @@
 			}
 , 			{
 				"box" : 				{
-					"activetextcolor" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"activetextoncolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"activebgoncolor" : [ 0.429793, 0.94902, 0.0, 1.0 ],
 					"id" : "obj-176",
 					"maxclass" : "live.text",
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 1,
-					"patching_rect" : [ 5.0, 103.0, 15.0, 15.0 ],
+					"patching_rect" : [ 4.0, 103.0, 17.0, 17.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.text[2]",
@@ -220,22 +219,23 @@
 
 					}
 ,
-					"textcolor" : [ 0.403922, 0.454902, 0.54902, 0.0 ],
+					"text" : "Sl",
+					"textcolor" : [ 0.403922, 0.454902, 0.54902, 1.0 ],
+					"texton" : "Sl",
 					"varname" : "live.text[2]"
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"activetextcolor" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"activetextoncolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"activebgoncolor" : [ 0.94902, 0.0, 0.933776, 1.0 ],
 					"id" : "obj-175",
 					"maxclass" : "live.text",
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 1,
-					"patching_rect" : [ 5.0, 79.0, 15.0, 15.0 ],
+					"patching_rect" : [ 4.0, 79.0, 17.0, 17.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.text[1]",
@@ -247,22 +247,23 @@
 
 					}
 ,
-					"textcolor" : [ 0.403922, 0.454902, 0.54902, 0.0 ],
+					"text" : "Ac",
+					"textcolor" : [ 0.403922, 0.454902, 0.54902, 1.0 ],
+					"texton" : "Ac",
 					"varname" : "live.text[1]"
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"activetextcolor" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"activetextoncolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"activebgoncolor" : [ 0.0, 0.77013, 0.94902, 1.0 ],
 					"id" : "obj-174",
 					"maxclass" : "live.text",
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 1,
-					"patching_rect" : [ 5.0, 55.0, 15.0, 15.0 ],
+					"patching_rect" : [ 4.0, 55.0, 17.0, 17.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.text",
@@ -274,7 +275,9 @@
 
 					}
 ,
-					"textcolor" : [ 0.403922, 0.454902, 0.54902, 0.0 ],
+					"text" : "N",
+					"textcolor" : [ 0.403922, 0.454902, 0.54902, 1.0 ],
+					"texton" : "N",
 					"varname" : "live.text"
 				}
 
